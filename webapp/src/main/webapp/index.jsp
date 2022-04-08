@@ -1,4 +1,4 @@
 
-<h1>Hey ThereI'm learning DevOps </h1>
-<h2>Thank You </h2>
+<h1> Hey There, I'm learning DevOps </h1>
+<h2> THANK YOU </h2>
     
